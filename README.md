@@ -7,5 +7,5 @@ Es una aplicación web pensada para jugadores competitivos de juegos como **Valo
 ---
 
 ## Archivos de este repositorio (Entrega Órbita 1)
-* 📄 **[BRIEF.md](./BRIEF.md):** Documento principal del proyecto (problema validado con mi encuesta, alcance del MVP,criterios de éxito y restricciones).
-* 🤖 **[CHANGELOG.md](./CHANGELOG.md):** Registro de cómo he utilizado la IA (Gemini) durante el proyecto.
+* **[BRIEF.md](./BRIEF.md):** Documento principal del proyecto (problema validado con mi encuesta, alcance del MVP,criterios de éxito y restricciones).
+* **[CHANGELOG.md](./CHANGELOG.md):** Registro de cómo he utilizado la IA (Gemini) durante el proyecto.
