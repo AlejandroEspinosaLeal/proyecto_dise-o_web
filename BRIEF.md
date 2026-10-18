@@ -42,7 +42,7 @@ Para comprobar que mi diseño se entiende y funciona bien, me fijo en tres cosas
 ---
 
 
-## 5. Restricciones del proyecto   
+## 4. Restricciones del proyecto   
 * Creo que el proyecto en movil no va a ser igual de funcional que een el ordenador ya que al jugar va a ser mas facil abrir la web en el navegador que abrirla en el movil
 * Otro problema que creo que si no hay mucha perosnas en la app no se va a poder utizar bien ya que necesita que haya gente para poder buscar y si no hay no puedes busar
   
